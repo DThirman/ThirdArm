@@ -1,0 +1,12 @@
+1.670984: incorrect
+1.502213: incorrect
+10.35966: correct
+1.440599: incorrect
+1.33489: incorrect
+1.980679: incorrect
+1.468591: incorrect
+1.921322: correct
+1.55555: incorrect
+2.682922: incorrect
+1.167643: incorrect
+2.033848: correct
